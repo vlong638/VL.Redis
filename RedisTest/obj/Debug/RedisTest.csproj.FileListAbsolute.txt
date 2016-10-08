@@ -1,0 +1,13 @@
+c:\users\dcw027\documents\visual studio 2015\Projects\RedisTest\RedisTest\bin\Debug\RedisTest.exe.config
+C:\Users\dcw027\Documents\Visual Studio 2015\Projects\RedisTest\RedisTest\bin\Debug\RedisTest.exe
+C:\Users\dcw027\Documents\Visual Studio 2015\Projects\RedisTest\RedisTest\bin\Debug\RedisTest.pdb
+C:\Users\dcw027\Documents\Visual Studio 2015\Projects\RedisTest\RedisTest\bin\Debug\ServiceStack.Common.dll
+C:\Users\dcw027\Documents\Visual Studio 2015\Projects\RedisTest\RedisTest\bin\Debug\ServiceStack.Interfaces.dll
+C:\Users\dcw027\Documents\Visual Studio 2015\Projects\RedisTest\RedisTest\bin\Debug\ServiceStack.Redis.dll
+C:\Users\dcw027\Documents\Visual Studio 2015\Projects\RedisTest\RedisTest\bin\Debug\ServiceStack.Text.dll
+C:\Users\dcw027\Documents\Visual Studio 2015\Projects\RedisTest\RedisTest\bin\Debug\ServiceStack.Common.xml
+C:\Users\dcw027\Documents\Visual Studio 2015\Projects\RedisTest\RedisTest\bin\Debug\ServiceStack.Redis.xml
+C:\Users\dcw027\Documents\Visual Studio 2015\Projects\RedisTest\RedisTest\bin\Debug\ServiceStack.Text.xml
+C:\Users\dcw027\Documents\Visual Studio 2015\Projects\RedisTest\RedisTest\obj\Debug\RedisTest.csprojResolveAssemblyReference.cache
+C:\Users\dcw027\Documents\Visual Studio 2015\Projects\RedisTest\RedisTest\obj\Debug\RedisTest.exe
+C:\Users\dcw027\Documents\Visual Studio 2015\Projects\RedisTest\RedisTest\obj\Debug\RedisTest.pdb
